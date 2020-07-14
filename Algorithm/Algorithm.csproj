@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Composition\AveragingAggregator.cs" />
     <Compile Include="Composition\AveragingStrategy.cs" />
     <Compile Include="Composition\EmptyFilter.cs" />
     <Compile Include="Composition\HighPassFilter.cs" />
